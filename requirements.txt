@@ -1,6 +1,7 @@
 fastapi
 tensorflow
 uvicorn
+python-multipart
 pillow
 numpy
 mangum
