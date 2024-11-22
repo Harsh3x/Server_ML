@@ -1,5 +1,6 @@
 fastapi
 tensorflow
+uvicorn
 pillow
 numpy
 mangum
