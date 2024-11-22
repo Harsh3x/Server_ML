@@ -1,0 +1,6 @@
+fastapi
+tensorflow
+pillow
+numpy
+mangum
+
